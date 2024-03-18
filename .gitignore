@@ -1,5 +1,19 @@
-.streamlit/secrets.toml
-Images
-Procfile
-POI_trial.ipynb
-setup.sh
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment variables file
+.env
+
+# IDE-specific files
+.idea/
+.vscode/
+
+
